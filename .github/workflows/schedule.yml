@@ -14,5 +14,5 @@ jobs:
         uses: KNY1005/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: c77a716410028e01c0f50bd201b42681
+          GIST_ID: 07c5af92fe550948850a6f08ac96a591
           TIMEZONE: Asia/Seoul
